@@ -57,9 +57,22 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\cloudcover.png" />
+	  <None Remove="Resources\Images\clouds.png" />
+	  <None Remove="Resources\Images\cloudycover.png" />
+	  <None Remove="Resources\Images\humid.png" />
+	  <None Remove="Resources\Images\humidity.png" />
+	  <None Remove="Resources\Images\lowbg.jpeg" />
+	  <None Remove="Resources\Images\overlay.jpeg" />
+	  <None Remove="Resources\Images\press.png" />
+	  <None Remove="Resources\Images\pressure.png" />
+	</ItemGroup>
+
+	<ItemGroup>
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
 	</ItemGroup>
 
 </Project>
