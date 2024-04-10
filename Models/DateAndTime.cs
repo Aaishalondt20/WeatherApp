@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace WeatherApp.Models
 {
-    internal class DateAndTime
+    public class DateAndTime
     {
+      public DateTime Date { get; set; }
     }
 }

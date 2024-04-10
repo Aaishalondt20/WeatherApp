@@ -66,6 +66,9 @@
 	  <None Remove="Resources\Images\overlay.jpeg" />
 	  <None Remove="Resources\Images\press.png" />
 	  <None Remove="Resources\Images\pressure.png" />
+	  <None Remove="Resources\Images\sky.jpeg" />
+	  <None Remove="Resources\Images\sunrise.png" />
+	  <None Remove="Resources\Images\sunset.png" />
 	</ItemGroup>
 
 	<ItemGroup>
