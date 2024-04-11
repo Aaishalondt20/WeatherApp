@@ -69,6 +69,7 @@
 	  <None Remove="Resources\Images\sky.jpeg" />
 	  <None Remove="Resources\Images\sunrise.png" />
 	  <None Remove="Resources\Images\sunset.png" />
+	  <None Remove="Resources\Images\wind.png" />
 	</ItemGroup>
 
 	<ItemGroup>

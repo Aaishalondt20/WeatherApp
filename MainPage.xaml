@@ -36,7 +36,7 @@
         <Image
             Aspect="Fill"
             HeightRequest="300"
-            Source="sky2.jpg"
+            Source="sky.jpg"
             VerticalOptions="StartAndExpand"/>
 
         <StackLayout
@@ -137,7 +137,7 @@
                     HorizontalOptions="CenterAndExpand"
                     Orientation="Vertical"
                     Spacing="10">
-                    <Image Source="humidity3.jpg"
+                    <Image Source="humidity.jpg"
                           HeightRequest="80"
                            WidthRequest="80"/>
                     <StackLayout HorizontalOptions="CenterAndExpand" Spacing="7">
@@ -160,7 +160,7 @@
                     HorizontalOptions="CenterAndExpand"
                     Orientation="Vertical"
                     Spacing="10">
-                    <Image Source="wind2.png"
+                    <Image Source="wind.png"
                            HeightRequest="80"
                            WidthRequest="50"/>
                     <StackLayout HorizontalOptions="CenterAndExpand" Spacing="7">
@@ -242,7 +242,7 @@
             HasShadow="True"
             HeightRequest="180"
             VerticalOptions="Start"
-            BackgroundColor="MintCream"
+            BackgroundColor="AliceBlue"
             BorderColor="Transparent">
 
             <Grid
@@ -260,9 +260,6 @@
                     HorizontalOptions="CenterAndExpand"
                     Orientation="Vertical"
                     Spacing="10">
-                    <Image Source="honest.png"
-                           HeightRequest="80"
-                           WidthRequest="80"/>
                     <StackLayout HorizontalOptions="CenterAndExpand" Spacing="7">
                         <Label
                             FontAttributes="Bold"
